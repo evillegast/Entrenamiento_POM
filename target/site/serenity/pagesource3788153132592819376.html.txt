@@ -1,0 +1,599 @@
+<html lang="en-GB" class="js csstransitions"><head>
+		<meta charset="UTF-8">
+	<!-- wp_head -->
+	<script type="text/javascript" id="themify_gallery_js" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/themify.gallery.js?version=2.8.8" async=""></script><script type="text/javascript" id="lightbox_js" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/lightbox.js?version=2.8.8" async=""></script><script src="http://practice.automationtesting.in/wp-includes/js/zxcvbn.min.js" type="text/javascript" async=""></script><script type="text/javascript" id="wow_js" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/wow.js?version=2.8.8" async=""></script><script type="text/javascript" id="themify_builder_script_js" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/js/themify.builder.script.js?version=2.8.8" async=""></script><script src="https://partner.googleadservices.com/gampad/cookie.js?domain=practice.automationtesting.in&amp;callback=_gfp_s_&amp;client=ca-pub-9173866185064071&amp;cookie=ID%3D6a8141abc501f63e-2255124d77cc0009%3AT%3D1637336796%3ART%3D1637336796%3AS%3DALNI_MY4lQvhealPxs-fXr82k6o2CYhy5w"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202111110101/show_ads_impl_fy2019.js" id="google_shimpl"></script><script>(function(html){ html.className = html.className.replace(/\bno-js\b/,'js'); if (html.classList) { html.classList.add( 'js' ); } else { html.className += ' js'; } })(document.documentElement);</script><style type="text/css">.js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column { visibility:hidden; }</style><title>My Account – Automation Practice Site</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Automation Practice Site » Feed" href="http://practice.automationtesting.in/feed/">
+<link rel="alternate" type="application/rss+xml" title="Automation Practice Site » Comments Feed" href="http://practice.automationtesting.in/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/practice.automationtesting.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://practice.automationtesting.in/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/css/animate.min.css" media="all"><link rel="stylesheet" id="themify-builder-style-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/css/themify-builder-style.css?ver=2.8.8" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_styles-css" href="http://practice.automationtesting.in/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.8" type="text/css" media="all">
+<link rel="stylesheet" id="wpsm-comptable-styles-css" href="http://practice.automationtesting.in/wp-content/plugins/table-maker/css/style.css?ver=1.6" type="text/css" media="all">
+<link rel="stylesheet" id="wpmenucart-icons-css" href="http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-icons.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wpmenucart-css" href="http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-main.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/select2.css?ver=2.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.14" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="tt-easy-google-fonts-css" href="http://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&amp;subset=latin%2Call&amp;ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="themify-framework-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/css/themify.framework.css?ver=2.8.8" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&amp;subset=latin%2Clatin-ext&amp;ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="themify-icons-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify-icons.css?ver=2.8.8" type="text/css" media="all">
+<link rel="stylesheet" id="theme-style-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/style.css?ver=1.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="themify-media-queries-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/media-queries.css?ver=1.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="themify-woocommerce-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/styles/woocommerce.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="header-top-bar-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/styles/header-top-bar.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="themify-icon-font-css" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/css/font-awesome.min.css?ver=2.8.8" type="text/css" media="all">
+<link rel="stylesheet" id="themify-customize-css" href="http://practice.automationtesting.in/wp-content/uploads/themify-customizer.css?ver=17.02.20.03.05.29" type="text/css" media="all">
+<link rel="stylesheet" id="customizer-google-fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans%3Anormal%2Cbold%7CPT+Sans&amp;subset=latin&amp;ver=4.7.5" type="text/css" media="all">
+<!--n2css--><script type="text/javascript" src="http://practice.automationtesting.in/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"http:\/\/practice.automationtesting.in\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-includes/js/zxcvbn-async.min.js?ver=1.0"></script>
+<link rel="https://api.w.org/" href="http://practice.automationtesting.in/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://practice.automationtesting.in/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://practice.automationtesting.in/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.5">
+<meta name="generator" content="WooCommerce 2.6.14">
+<link rel="canonical" href="http://practice.automationtesting.in/my-account/">
+<link rel="shortlink" href="http://practice.automationtesting.in/?p=36">
+<link rel="alternate" type="application/json+oembed" href="http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpractice.automationtesting.in%2Fmy-account%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpractice.automationtesting.in%2Fmy-account%2F&amp;format=xml">
+<!-- <meta name="vfbPro" version="2.5.1" /> -->
+
+
+
+
+<link href="http://practice.automationtesting.in/wp-content/uploads/2016/12/color-logo-original.png" rel="shortcut icon"> 
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+	<style>
+	@-webkit-keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.333333333333% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	@keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.333333333333% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	.themify_builder_row.animated-bg {
+		-webkit-animation: themifyAnimatedBG 30000ms infinite alternate;
+		animation: themifyAnimatedBG 30000ms infinite alternate;
+	};
+	</style>
+	
+				<!-- equalcolumn-ie-fix.js -->
+				<!--[if IE 9]>
+					<script src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/js/equalcolumn-ie-fix.js"></script>
+				<![endif]-->
+				<script type="text/javascript">				function isSupportTransition() {
+				var b = document.body || document.documentElement,
+				s = b.style,
+				p = 'transition';
+
+				if (typeof s[p] == 'string') { return true; }
+
+				// Tests for vendor specific prop
+				var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
+				p = p.charAt(0).toUpperCase() + p.substr(1);
+
+				for (var i=0; i<v.length; i++) {
+					if (typeof s[v[i] + p] == 'string') { return true; }
+					}
+					return false;
+					}
+					if ( isSupportTransition() ) {
+					document.documentElement.className += " csstransitions";	
+					}
+		</script><style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; }
+h2 { font-family: 'Century Gothic'; font-size: 40px; font-style: normal; font-weight: 700; }
+h3 { font-family: 'Abril Fatface'; font-size: 36px; font-style: normal; font-weight: 400; }
+h4 { }
+h5 { }
+h6 { }
+</style>
+<meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><link rel="preload" href="https://adservice.google.com.co/adsid/integrator.js?domain=practice.automationtesting.in" as="script"><script type="text/javascript" src="https://adservice.google.com.co/adsid/integrator.js?domain=practice.automationtesting.in"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=practice.automationtesting.in" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=practice.automationtesting.in"></script><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"></head>
+
+<body class="page-template-default page page-id-36 woocommerce-account woocommerce-page template-themify-ultra template-themify-ultra-1-5-0 skin-default webkit not-ie default_width sidebar-none no-home no-touch header-top-bar fixed-header footer-block default tagline-off rss-off  filter-hover-none filter-featured-only masonry-enabled sidemenu-active builder-parallax-scrolling-active animation-on page-loaded themify_lightbox_loaded">
+
+
+<div id="pagewrap" class="hfeed site" style="padding-top: 69px;">
+
+			<div id="headerwrap">
+
+			
+			<a id="menu-icon" href="#mobile-menu"></a>
+
+			<header id="header" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+	            
+	            <div class="header-bar">
+		            						<div id="site-logo"><a href="http://practice.automationtesting.in" title="Automation Practice Site"><img src="http://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png" alt="Automation Practice Site" title="Automation Practice Site"><span style="display: none;">Automation Practice Site</span></a></div>					
+									</div>
+				<!-- /.header-bar -->
+
+									<div id="mobile-menu" class="sidemenu sidemenu-off">
+
+													<div class="social-widget">
+																									
+															</div>
+							<!-- /.social-widget -->
+						
+													<div id="searchform-wrap">
+								<form method="get" id="searchform" action="http://practice.automationtesting.in/">
+
+	<i class="icon-search"></i>
+
+	<input type="text" name="s" id="s" title="Search" value="">
+
+</form>							</div>
+							<!-- /searchform-wrap -->
+						
+													<nav id="main-nav-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+								<ul id="main-nav" class="main-nav"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://practice.automationtesting.in/shop/">Shop</a> </li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-36 current_page_item"><a href="http://practice.automationtesting.in/my-account/">My Account</a> </li>
+<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://practice.automationtesting.in/test-cases/">Test Cases</a> </li>
+<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://automationtesting.in/">AT Site</a> </li>
+<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://demo.automationtesting.in/Register.html">Demo Site</a> </li>
+<li class="wpmenucartli wpmenucart-display-standard menu-item" id="wpmenucartli"><a class="wpmenucart-contents empty-wpmenucart-visible" href="http://practice.automationtesting.in/shop/" title="Start shopping"><i class="wpmenucart-icon-shopping-cart-0"></i><span class="cartcontents">0 items</span><span class="amount">₹0.00</span></a></li></ul>								<!-- /#main-nav -->
+							</nav>
+							<!-- /#main-nav-wrap -->
+						
+													
+		<div class="header-widget clearfix" tabindex="0" style="overflow: hidden; outline: none;">
+							<div class="col3-1 first">
+					<div id="text-14" class="widget widget_text">			<div class="textwidget">&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;</div>
+		</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-9" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-11" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-12" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-13" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9173866185064071" data-ad-slot="6638633547" data-ad-format="auto" data-adsbygoogle-status="done"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>				</div>
+							<div class="col3-1 ">
+									</div>
+							<div class="col3-1 ">
+									</div>
+					</div>
+		<!-- /.header-widgets -->
+
+								<!-- /header-widgets -->
+						
+						<a id="menu-icon-close" href="#"></a>
+					</div>
+					<!-- /#mobile-menu -->
+				
+				
+				
+			<a href="#" class="pull-down"></a></header>
+			<!-- /#header -->
+
+	        
+		<div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 8px; z-index: 1; cursor: default; position: absolute; top: 0px; left: 26px; height: 68px; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 6px; height: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div id="ascrail2000-hr" class="nicescroll-rails nicescroll-rails-hr" style="height: 8px; z-index: 1; top: 60px; left: 0px; position: absolute; cursor: default; display: none;"><div class="nicescroll-cursors" style="position: absolute; top: 0px; height: 6px; width: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div></div>
+		<!-- /#headerwrap -->
+	
+	<div id="body" class="clearfix">
+
+		
+
+<!-- layout-container -->
+<div id="layout" class="pagewidth clearfix">
+
+		<!-- content -->
+	<div id="content" class="clearfix">
+    	
+		
+							<div id="page-36" class="type-page">
+
+			<!-- page-title -->
+						<!-- /page-title -->
+
+			<div class="page-content entry-content">
+
+				
+				<div class="woocommerce">
+
+
+
+<div class="u-columns col2-set" id="customer_login">
+
+	<div class="u-column1 col-1">
+
+
+		<h2>Login</h2>
+
+		<form method="post" class="login">
+
+			
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="username">Username or email address <span class="required">*</span></label>
+				<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" value="">
+			</p>
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="password">Password <span class="required">*</span></label>
+				<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password">
+			</p>
+
+			
+			<p class="form-row">
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="3208425875"><input type="hidden" name="_wp_http_referer" value="/my-account/">				<input type="submit" class="woocommerce-Button button" name="login" value="Login">
+				<label for="rememberme" class="inline">
+					<input class="woocommerce-Input woocommerce-Input--checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember me				</label>
+			</p>
+			<p class="woocommerce-LostPassword lost_password">
+				<a href="http://practice.automationtesting.in/my-account/lost-password/">Lost your password?</a>
+			</p>
+
+			
+		</form>
+
+
+	</div>
+
+	<div class="u-column2 col-2">
+
+		<h2>Register</h2>
+
+		<form method="post" class="register">
+
+			
+			
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="reg_email">Email address <span class="required">*</span></label>
+				<input type="email" class="woocommerce-Input woocommerce-Input--text input-text" name="email" id="reg_email" value="">
+			</p>
+
+			
+				<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+					<label for="reg_password">Password <span class="required">*</span></label>
+					<input type="password" class="woocommerce-Input woocommerce-Input--text input-text" name="password" id="reg_password">
+				</p>
+
+			
+			<!-- Spam Trap -->
+			<div style="left: -999em; position: absolute;"><label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1" autocomplete="off"></div>
+
+						
+			<p class="woocomerce-FormRow form-row">
+				<input type="hidden" id="woocommerce-register-nonce" name="woocommerce-register-nonce" value="a763e4f0b9"><input type="hidden" name="_wp_http_referer" value="/my-account/">				<input type="submit" class="woocommerce-Button button" name="register" value="Register">
+			</p>
+
+			
+		</form>
+
+	</div>
+
+</div>
+
+</div>
+<div id="themify_builder_content-36" data-postid="36" class="themify_builder_content themify_builder_content-36 themify_builder themify_builder_front">
+
+	</div>
+<!-- /themify_builder_content -->
+				
+				
+				<!-- comments -->
+								<!-- /comments -->
+
+			</div>
+			<!-- /.post-content -->
+
+			</div><!-- /.type-page -->
+		
+				
+			</div>
+	<!-- /content -->
+    
+	
+	
+
+</div>
+<!-- /layout-container -->
+
+
+        			</div>
+			<!-- /body -->
+
+							<div id="footerwrap">
+
+					
+					<footer id="footer" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+
+						
+						
+						<div class="main-col first clearfix">
+							<div class="footer-left-wrap first">
+															
+															</div>
+							
+							<div class="footer-right-wrap">
+
+																	<div class="footer-nav-wrap">
+																			</div>
+									<!-- /.footer-nav-wrap -->
+																							</div>
+						</div>
+
+																					<div class="section-col clearfix">
+									<div class="footer-widgets-wrap">
+										
+		<div class="footer-widgets clearfix">
+							<div class="col4-1 first">
+					<div id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://practice.automationtesting.in/"><img src="http://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png" alt="Site Logo" style="width:116px"></a>
+
+
+</div>
+		</div><div id="themify-social-links-2" class="widget themify-social-links"><ul class="social-links horizontal">
+							<li class="social-link-item twitter font-icon icon-medium">
+								<a href="https://twitter.com/krishnasakinala" title="Twitter" target="_blank"><i class="fa fa-twitter" style="color: #292929;background-color: #f2f2f2;"></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item facebook font-icon icon-medium">
+								<a href="https://www.facebook.com/automationtesting2016/" title="Facebook" target="_blank"><i class="fa fa-facebook" style="color: #292929;background-color: #f2f2f2;"></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item google font-icon icon-medium">
+								<a href="https://plus.google.com/105286300926085335367" title="Google+" target="_blank"><i class="fa fa-google-plus" style="color: #292929;background-color: #f2f2f2;"></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item youtube font-icon icon-medium">
+								<a href="https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg" title="YouTube" target="_blank"><i class="fa fa-youtube" style="color: #292929;background-color: #f2f2f2;"></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item linkedin font-icon icon-medium">
+								<a href="https://www.linkedin.com/nhome/?trk=hb_signin" title="LinkedIn" target="_blank"><i class="fa fa-linkedin" style="color: #292929;background-color: #f2f2f2;"></i>  </a>
+							</li>
+							<!-- /themify-link-item --></ul></div>				</div>
+							<div class="col4-1 " style="margin: 0px; padding: 0px; border-width: 0px;">
+					<div id="text-6" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle" style="display: inline-block; width: 0px; height: 0px;" data-ad-client="ca-pub-9173866185064071" data-ad-slot="2829751940" data-adsbygoogle-status="done" data-ad-status="unfilled"><ins id="aswift_0_expand" tabindex="0" title="Advertisement" aria-label="Advertisement" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;"><ins id="aswift_0_anchor" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: hidden; opacity: 0;"><iframe id="aswift_0" name="aswift_0" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 0px; height: 0px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="0" height="0" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9173866185064071&amp;output=html&amp;h=250&amp;slotname=2829751940&amp;adk=4031209622&amp;adf=3296138274&amp;pi=t.ma~as.2829751940&amp;w=300&amp;lmt=1637336800&amp;psa=1&amp;format=300x250&amp;url=http%3A%2F%2Fpractice.automationtesting.in%2Fmy-account%2F&amp;flash=0&amp;wgl=1&amp;dt=1637336800516&amp;bpp=1&amp;bdt=299&amp;idt=11&amp;shv=r20211111&amp;mjsv=m202111110101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D6a8141abc501f63e-2255124d77cc0009%3AT%3D1637336796%3ART%3D1637336796%3AS%3DALNI_MY4lQvhealPxs-fXr82k6o2CYhy5w&amp;correlator=4734492509397&amp;frm=20&amp;pv=2&amp;ga_vid=1821325663.1637336801&amp;ga_sid=1637336801&amp;ga_hid=1618205057&amp;ga_fc=0&amp;u_tz=-300&amp;u_his=3&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;adx=394&amp;ady=1083&amp;biw=1349&amp;bih=657&amp;scr_x=0&amp;scr_y=0&amp;eid=44754331%2C31063736&amp;oid=2&amp;pvsid=2330980514958129&amp;pem=833&amp;tmod=718879995&amp;ref=http%3A%2F%2Fpractice.automationtesting.in%2Ftest-cases%2F&amp;eae=0&amp;fc=640&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&amp;vis=1&amp;rsz=%7C%7CleEbr%7C&amp;abl=CS&amp;pfx=0&amp;fu=0&amp;bc=23&amp;ifi=1&amp;uci=a!1&amp;btvi=1&amp;fsb=1&amp;xpc=k22FKxTdB4&amp;p=http%3A//practice.automationtesting.in&amp;dtd=19" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true" data-google-query-id="CIHGlPPipPQCFZLMKAUdGKABBw"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>				</div>
+							<div class="col4-1 " style="margin: 0px; padding: 0px; border-width: 0px;">
+					<div id="text-7" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle" style="display: inline-block; width: 0px; height: 0px;" data-ad-client="ca-pub-9173866185064071" data-ad-slot="2829751940" data-adsbygoogle-status="done" data-ad-status="unfilled"><ins id="aswift_1_expand" tabindex="0" title="Advertisement" aria-label="Advertisement" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;"><ins id="aswift_1_anchor" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: hidden; opacity: 0;"><iframe id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 0px; height: 0px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="0" height="0" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9173866185064071&amp;output=html&amp;h=250&amp;slotname=2829751940&amp;adk=1476732723&amp;adf=2426164438&amp;pi=t.ma~as.2829751940&amp;w=300&amp;lmt=1637336800&amp;psa=1&amp;format=300x250&amp;url=http%3A%2F%2Fpractice.automationtesting.in%2Fmy-account%2F&amp;flash=0&amp;wgl=1&amp;dt=1637336800518&amp;bpp=1&amp;bdt=302&amp;idt=53&amp;shv=r20211111&amp;mjsv=m202111110101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D6a8141abc501f63e-2255124d77cc0009%3AT%3D1637336796%3ART%3D1637336796%3AS%3DALNI_MY4lQvhealPxs-fXr82k6o2CYhy5w&amp;prev_fmts=300x250&amp;correlator=4734492509397&amp;frm=20&amp;pv=1&amp;ga_vid=1821325663.1637336801&amp;ga_sid=1637336801&amp;ga_hid=1618205057&amp;ga_fc=0&amp;u_tz=-300&amp;u_his=3&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;adx=693&amp;ady=1083&amp;biw=1349&amp;bih=657&amp;scr_x=0&amp;scr_y=0&amp;eid=44754331%2C31063736&amp;oid=2&amp;pvsid=2330980514958129&amp;pem=833&amp;tmod=718879995&amp;ref=http%3A%2F%2Fpractice.automationtesting.in%2Ftest-cases%2F&amp;eae=0&amp;fc=640&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&amp;vis=1&amp;rsz=%7C%7CleEbr%7C&amp;abl=CS&amp;pfx=0&amp;fu=0&amp;bc=23&amp;ifi=2&amp;uci=a!2&amp;btvi=2&amp;fsb=1&amp;xpc=JEchStejgK&amp;p=http%3A//practice.automationtesting.in&amp;dtd=56" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!2" data-load-complete="true" data-google-query-id="CO_XlPPipPQCFR3LKAUdXdMJig"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>				</div>
+							<div class="col4-1 ">
+					<div id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><h4 class="widgettitle">Subscribe Here</h4><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-117" method="post" data-id="117" data-name="Form 1"><div class="mc4wp-form-fields"><p>
+	<input type="email" name="EMAIL" placeholder="Your email address" required="">
+</p>
+
+<p>
+	<input type="submit" value="Subscribe">
+</p><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1637336800"><input type="hidden" name="_mc4wp_form_id" value="117"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>				</div>
+					</div>
+		<!-- /.footer-widgets -->
+
+											<!-- /footer-widgets -->
+									</div>
+								</div>
+								<div class="footer-text clearfix">
+									<div class="footer-text-inner">
+																					<div class="one">© <a href="http://practice.automationtesting.in">Automation Practice Site</a> 2021</div>											<div class="two"> </div>																			</div>
+								</div>
+								<!-- /.footer-text -->
+													
+						
+					</footer>
+					<!-- /#footer -->
+
+					
+				</div>
+				<!-- /#footerwrap -->
+			
+		</div>
+		<!-- /#pagewrap -->
+
+		
+		<!-- SCHEMA BEGIN --><script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"WebPage","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/practice.automationtesting.in\/my-account\/"},"headline":"My Account","datePublished":"2017-01-06T08:17:30+00:00","dateModified":"2017-01-06T08:17:30+00:00","description":"","commentCount":"0"}]</script><!-- /SCHEMA END -->		<!-- wp_footer -->
+		
+
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type="text/javascript">
+/* <![CDATA[ */
+var themify_vars = {"version":"2.8.8","url":"http:\/\/practice.automationtesting.in\/wp-content\/themes\/themify-ultra\/themify","TB":"1","map_key":null};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row.wow",".module_row.wow",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/practice.automationtesting.in\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/practice.automationtesting.in\/wp-content\/themes\/themify-ultra\/themify\/themify-builder","framework_url":"http:\/\/practice.automationtesting.in\/wp-content\/themes\/themify-ultra\/themify","version":"2.8.8","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"1"};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"#headerwrap.fixed-header","speed":"900","navigation":"#main-nav","scrollOffset":"-5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/main.js?ver=2.8.8"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Basket","cart_url":"http:\/\/practice.automationtesting.in\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-admin/js/password-strength-meter.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/themify.mega-menu.js?ver=1.5.0"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/jquery.nicescroll.js?ver=1.5.0"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/themify.sidemenu.js?ver=1.5.0"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/jquery.isotope.min.js?ver=1.5.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"#pagewrap","fixedHeader":"fixed-header","ajax_nonce":"e2c4a0dcab","ajax_url":"http:\/\/practice.automationtesting.in\/wp-admin\/admin-ajax.php","smallScreen":"760","resizeRefresh":"250","parallaxHeader":"1","loadingImg":"http:\/\/practice.automationtesting.in\/wp-content\/themes\/themify-ultra\/images\/loading.gif","maxPages":"0","autoInfinite":"auto","scrollToNewOnLoad":"scroll","resetFilterOnLoad":"reset","fullPageScroll":"","scrollHighlight":{"scroll":"internal"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/themify.script.js?ver=1.5.0"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-includes/js/comment-reply.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://practice.automationtesting.in/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.13"></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://practice.automationtesting.in/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.13'></script>
+<![endif]-->
+		<script type="text/javascript">
+			if ('object' === typeof tbLocalScript) {
+				tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
+			}
+		</script>
+			
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'p3plcpnl0555'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js"></script><div class="body-overlay"></div><link rel="stylesheet" href="http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/css/lightbox.css" media="all"><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20211111/r20190131/zrt_lookup.html" style="display: none;"></iframe></html>
